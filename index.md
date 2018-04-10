@@ -2,6 +2,13 @@
 
 Serious Privacy Game Workshop (SPRIG) is a workshop that takes the participant trough developing a serious game focusing on privacy. The development of the game let the participants discuss privacy in groups in an fun and interesting way.
 
+
+## Participating in the workshop study
+The participants will be given a short survey to collect their attitude to privacy followed by a privacy related Kahoot!, before a short introduction to privacy and serious games are given. After these introduction activities are done, the workshop is run. After the workshop is run another short survey is given to get feedback.
+
+> Drafts to both surveys can be seen at [attitude survey](files/Before workshop - Privacy survey .pdf) and at [feedback survey](files/After workshop - Workshop survey .pdf)
+
+
 ## Workshop Download
 
 The workshop has 3 artifacts as well as a presentation and a guide for running the workshop.
