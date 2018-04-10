@@ -7,25 +7,25 @@ Serious Privacy Game Workshop (SPRIG) is a workshop that takes the participant t
 The workshop has 3 artifacts as well as a presentation and a guide for running the workshop.
 
 The first is the board
-![](https://github.com/dagfs/sprig/raw/master/img/workshop/board_2.png)
-[Download bord](https://github.com/dagfs/sprig/raw/master/board.pdf).
+![](img/workshop/board_2.png)
+[Download bord](files/board.pdf).
 
 The second is the workshop cards
-![](https://github.com/dagfs/sprig/raw/master/img/workshop/cards.png) [Download cards](https://github.com/dagfs/sprig/raw/master/cards.pdf).
+![](img/workshop/cards.png) [Download cards](files/cards.pdf).
 
 The last part are the question cards
-![](https://github.com/dagfs/sprig/raw/master/img/workshop/question_cards.png)
-[Download question cards.pdf](https://github.com/dagfs/sprig/raw/master/question_cards.pdf)
+![](img/workshop/question_cards.png)
+[Download question cards](files/question_cards.pdf)
 
 
-The [presentation](https://github.com/dagfs/sprig/raw/master/presentation.pdf) introduces what privacy is, what personal data are, and why privacy is important.
+The [presentation](files/presentation.pdf) introduces what privacy is, what personal data are, and why privacy is important.
 
 
-The [guide for running the workshop](https://dagfs.github.io/sprig/workshop) has not yet been added to this page.
+Take a look at the [guide for running the workshop](workshop/).
 
 ## Other Activities
 
-* [Privacy Related News Articles](https://dagfs.github.io/sprig/news_articles)
+* [Privacy Related News Articles](news_articles/)
 
 ## Other Languages
 Follow the links to see versions in other languages.
