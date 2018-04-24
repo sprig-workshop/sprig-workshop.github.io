@@ -2,7 +2,7 @@
 
 ## Videos
 
-[List of privacy related videos][/activities/videos]
+[List of privacy related videos](/activities/videos)
 
 ## News Articles
 
