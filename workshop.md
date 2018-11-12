@@ -38,7 +38,7 @@ The [presentation for adults]() go more into detail of what privacy is, what per
 
 To kick start the groups a worm-up activity should be run. Depending on the situation different activities are recommended.
 
-* For classes where the pupils knows each other running [the workshops privacy Kahooth!]() is recommended. The pupils mostly need to get some privacy input and be active in some way.
+* For classes where the pupils knows each other running [the workshops privacy Kahooth!](https://play.kahoot.it/#/k/a3dfc70d-238d-46b3-bad0-0e0e815a6dd6) is recommended. The pupils mostly need to get some privacy input and be active in some way.
 
 * For classes where the pupils knows each other it is also possible to run the [the workshop privacy warm-up presentation](). This presentation contains mostly the same material as the Kahoot!, but does not require sound, nor that the pupils use a phone or computer to access the activity. The presentation contains a series of questions and the pupils are trying to answer the questions correctly first. Making them stand up and wait for acknowledgment before speaking is recommended. So is having some candy to give out as price for each correct answer.
 
